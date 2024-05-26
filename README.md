@@ -1,4 +1,4 @@
-- 👋 Hey!, I’m @alakhnamdev
+- 👋 Hey!, I’m Alakh Namdev
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React React Native
 - 💞️ I’m looking to collaborate on Software devlopment
