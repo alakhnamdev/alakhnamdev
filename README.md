@@ -1,4 +1,8 @@
-## Hi there 👋
+- 👋 Hey!, I’m @alakhnamdev
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React React Native
+- 💞️ I’m looking to collaborate on Software devlopment
+- 📫 How to reach me: namdev.alakh@gmail.com
 
 <!--
 **alakhnamdev/alakhnamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
