@@ -1,6 +1,6 @@
 - 👋 Hey!, I’m Alakh Namdev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React React Native
+- 🌱 I’m currently learning React Js, Node Js
 - 💞️ I’m looking to collaborate on Software devlopment
 - 📫 How to reach me: namdev.alakh@gmail.com
 
